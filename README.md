@@ -1,5 +1,5 @@
 <h1>게시판</h1>
-<a href="https://nextjs-dashboard-black-three-30.vercel.app/" target="_blank"><img src="/public/images/dashboard.png" alt="dashboard"></a>
+<a href="https://nextjs-dashboard-black-three-30.vercel.app/" target="_blank"><img src="/public/dashboard.png" alt="dashboard"></a>
 <p>기술 : React, Javascript, Styled-Component, Axios</p>
 <p>작업기간 : 2주</p>
 <p>기여도 : 100%</p>
